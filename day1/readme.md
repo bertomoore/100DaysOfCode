@@ -1,3 +1,5 @@
+# Chess 960
+
 Today, we will create a Fischer chess board, also known as a Chess960 board. The idea is to randomize the first and last rows to discourage memorizing opening moves.
 
 There are two rules that need to be followed in implementation:
